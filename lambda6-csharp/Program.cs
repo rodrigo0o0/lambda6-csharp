@@ -27,7 +27,7 @@ namespace lambda6_csharp
                         
                         products.Add(new Product(name, price));
                     }
-                    var averagePrice = products.Average(p => p.Price);
+                    var averagePrice = products.Select(p => p.Price).DefaultIfEmpty(0.0).Average();
 
                     Console.WriteLine(averagePrice.ToString("F2",CultureInfo.InvariantCulture));
                     var productsLowerPrice = products.Where(p => p.Price < averagePrice).Select(p => p);
