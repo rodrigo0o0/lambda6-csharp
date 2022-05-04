@@ -1,0 +1,8 @@
+C:\Users\sande\source\repos\lambda6-csharp\lambda6-csharp\bin\Debug\lambda6-csharp.exe.config
+C:\Users\sande\source\repos\lambda6-csharp\lambda6-csharp\bin\Debug\lambda6-csharp.exe
+C:\Users\sande\source\repos\lambda6-csharp\lambda6-csharp\bin\Debug\lambda6-csharp.pdb
+C:\Users\sande\source\repos\lambda6-csharp\lambda6-csharp\obj\Debug\lambda6-csharp.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\lambda6-csharp\lambda6-csharp\obj\Debug\lambda6-csharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\source\repos\lambda6-csharp\lambda6-csharp\obj\Debug\lambda6-csharp.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\lambda6-csharp\lambda6-csharp\obj\Debug\lambda6-csharp.exe
+C:\Users\sande\source\repos\lambda6-csharp\lambda6-csharp\obj\Debug\lambda6-csharp.pdb
